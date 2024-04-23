@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASHI2001GTHB
+- 👋 Hi, I’m Ashini Manawasinghe
 - 👀 I’m interested in IT
 - 🌱 I’m currently reading Software Engineering degree in CINEC Campus,Malabe
 - 💞️ I’m looking to collaborate on ...
